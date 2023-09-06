@@ -1,0 +1,13 @@
+table{
+    height:100px;
+    width:700px;
+    border-radius: 0px;
+    inline-size: 90%;
+}
+#g1{
+    color: rgb(218, 224, 218);
+    background-color: green;
+}
+.c1{
+    background-color: rgb(224, 224, 224);
+}

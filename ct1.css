@@ -1,0 +1,9 @@
+table{
+    width: 500px;
+    background-color: #7bcaba ;
+}
+table,td,th{
+
+    border: 1px solid black;
+    border-radius: 10pt;
+}

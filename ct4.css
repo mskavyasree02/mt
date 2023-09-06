@@ -1,0 +1,44 @@
+#mySidenav a {
+    position: absolute; 
+    left: -80px; 
+    transition: 0.3s; 
+    padding: 10px; 
+    width: 200px; 
+    color: rgb(31, 28, 27);
+    
+  }
+  p{
+    left:300px;
+    position: absolute;
+    bottom:600px;
+  }
+  h1{
+    
+    position: absolute;
+    left: 300px;
+
+  }
+  
+  #mySidenav a:hover {
+    left: 0;
+  }
+  
+  #about {
+    top: 20px;
+    background-color: #04AA6D;
+  }
+  
+  #blog {
+    top: 80px;
+    background-color: #2196F3; /* Blue */
+  }
+  
+  #projects {
+    top: 140px;
+    background-color: #f44336; /* Red */
+  }
+  
+  #contact {
+    top: 200px;
+    background-color: #baaaaa /* Light Black */
+  }
